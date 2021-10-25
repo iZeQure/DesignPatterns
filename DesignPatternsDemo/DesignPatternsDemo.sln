@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectLibrary", "ObjectLibr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPatternLibrary", "FactoryPatternLibrary\FactoryPatternLibrary.csproj", "{C8F4F0B6-1B7F-4973-98DE-25AE456C1906}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPatternLibrary", "RepositoryPatternLibrary\RepositoryPatternLibrary.csproj", "{1A36D32F-C44A-4149-85D7-FF1E71EA070C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C8F4F0B6-1B7F-4973-98DE-25AE456C1906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8F4F0B6-1B7F-4973-98DE-25AE456C1906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8F4F0B6-1B7F-4973-98DE-25AE456C1906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A36D32F-C44A-4149-85D7-FF1E71EA070C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A36D32F-C44A-4149-85D7-FF1E71EA070C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A36D32F-C44A-4149-85D7-FF1E71EA070C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A36D32F-C44A-4149-85D7-FF1E71EA070C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
