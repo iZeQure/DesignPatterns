@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FactoryPatternLibrary\FactoryPatternLibrary.csproj" />
+    <ProjectReference Include="..\RepositoryPatternLibrary\RepositoryPatternLibrary.csproj" />
   </ItemGroup>
 
 </Project>
